@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshdey177" alt="rakeshdey177" /></a> </p>
 
-- 🔭 I’m currently working on **PIzza (SQL end to end project)**
+- 🔭 I’m currently working on **Pizza Data Analysis (SQL end to end project)**
 
-- 💬 Ask me about **Excel, Power Bi, SQL, Python**
+- 🌱 I’m currently learning **Pandas,Matplotlib**
+
+- 💬 Ask me about **Excel, Power Bi,SQL,Python**
+
+- 📫 How to reach me **rakeshdey177@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshdey177&show_icons=true&locale=en&layout=compact" alt="rakeshdey177" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshdey177&show_icons=true&locale=en" alt="rakeshdey177" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshdey177&" alt="rakeshdey177" /></p>
