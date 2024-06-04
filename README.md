@@ -1,3 +1,4 @@
+<img align="center" alt="data_analyst" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif">
 <h1 align="center">Hi 👋, I'm Rakesh Chandra Dey</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
